@@ -332,73 +332,7 @@
          "draworder":"topdown",
          "id":2,
          "name":"floorLayer",
-         "objects":[
-                {
-                 "height":128,
-                 "id":13,
-                 "name":"jitsiChillZone",
-                 "opacity":1,
-                 "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"jitsiRoom",
-                         "type":"string",
-                         "value":"ChillZone"
-                        }, 
-                        {
-                         "name":"jitsiTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"zoom_margin",
-                         "type":"float",
-                         "value":1
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":221.333333333333,
-                 "x":1346.66666666667,
-                 "y":830.666666666667
-                }, 
-                {
-                 "height":358,
-                 "id":16,
-                 "name":"jitsiMeetingRoom",
-                 "opacity":1,
-                 "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"jitsiRoom",
-                         "type":"string",
-                         "value":"MeetingRoom"
-                        }, 
-                        {
-                         "name":"jitsiTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"zoom_margin",
-                         "type":"float",
-                         "value":1
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":218.666666666667,
-                 "x":1347,
-                 "y":125.666666666667
-                }],
+         "objects":[],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
